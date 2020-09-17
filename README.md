@@ -1,5 +1,5 @@
  
-# Budget_Truckers
+# Budget_Trackers
 
 ![GitHub](https://img.shields.io/github/repo-size/nargizaboronchieva/Budget_Truckers?style=plastic) ![GitHub](https://img.shields.io/github/last-commit/nargizaboronchieva/Budget_Truckers?style=plastic) ![GitHub](https://img.shields.io/github/languages/top/nargizaboronchieva/Budget_Truckers?style=plastic) ![GitHub](https://img.shields.io/github/license/nargizaboronchieva/Budget_Truckers?style=plastic) ![GitHub](https://img.shields.io/github/followers/nargizaboronchieva?style=social)
 
