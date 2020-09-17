@@ -1,22 +1,51 @@
-#Online/Offline Budget Trackers
+ 
+# Budget_Trackers
 
-The user will be able to add expenses and deposits to their budget with or without a connection. When entering transactions offline, they should populate the total when brought back online.
-Offline Functionality:
-* Enter deposits offline;
+![GitHub](https://img.shields.io/github/repo-size/nargizaboronchieva/Budget_Truckers?style=plastic) ![GitHub](https://img.shields.io/github/last-commit/nargizaboronchieva/Budget_Truckers?style=plastic) ![GitHub](https://img.shields.io/github/languages/top/nargizaboronchieva/Budget_Truckers?style=plastic) ![GitHub](https://img.shields.io/github/license/nargizaboronchieva/Budget_Truckers?style=plastic) ![GitHub](https://img.shields.io/github/followers/nargizaboronchieva?style=social)
 
-* Enter expenses offline;
+Check out the App here!: https://budget-tracker-nb.herokuapp.com/
 
-* When brought back online.
+![Demonstration Page](https://github.com/nargizaboronchieva/Budget_Truckers/demo-budget.png)
+## Table of Contents
 
-Offline entries should be added to tracker.
+* [Description](#description)
+* [Deployment](#deployment)
+* [Built With](#built-with)
+* [Contributing](#contributing)
+* [Authors](#authors)
+* [License](#license)
 
 
-  *Create an app manifest.
+## Description
 
-  * Register and install a service worker.
+The user will be able to add expenses and deposits to their budget with or without a connection. A user will also be able to download the app since it is a progressive web app. When entering transactions offline, they should populate the total when brought back online. Offline functionality: 
 
-  * Cache your files and deliver an offline experience.
+Enter deposits offline
+Enter expenses offline. 
 
-  * Make your app downloadable. 
+When brought back online, the offline entries should be added to tracker.
 
-  * Push your app to heroku!
+## Deployment
+
+https://budget-tracker-nb.herokuapp.com/
+
+## Built With
+
+* HTML
+* CSS
+* Bootstrap
+* JavaScript
+* Node.js
+* Express
+* MongoDB
+* Mongoose
+
+
+
+## Authors
+
+**Nargiza Boronchieva**
+
+## License
+
+MIT
