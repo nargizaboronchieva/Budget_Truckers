@@ -1,22 +1,49 @@
-#Online/Offline Budget Trackers
+ 
+# Budget_Truckers
 
-The user will be able to add expenses and deposits to their budget with or without a connection. When entering transactions offline, they should populate the total when brought back online.
-Offline Functionality:
-* Enter deposits offline;
+![GitHub](https://img.shields.io/github/repo-size/nargizaboronchieva/Budget_Truckers?style=plastic) ![GitHub](https://img.shields.io/github/last-commit/nargizaboronchieva/Budget_Truckers?style=plastic) ![GitHub](https://img.shields.io/github/languages/top/nargizaboronchieva/Budget_Truckers?style=plastic) ![GitHub](https://img.shields.io/github/license/nargizaboronchieva/Budget_Truckers?style=plastic) ![GitHub](https://img.shields.io/github/followers/nargizaboronchieva?style=social)
 
-* Enter expenses offline;
+Check out the App here!:
+## Table of Contents
 
-* When brought back online.
+* [Description](#description)
+* [Deployment](#deployment)
+* [Built With](#built-with)
+* [Contributing](#contributing)
+* [Authors](#authors)
+* [License](#license)
 
-Offline entries should be added to tracker.
+
+## Description
+
+The user will be able to add expenses and deposits to their budget with or without a connection. A user will also be able to download the app since it is a progressive web app. When entering transactions offline, they should populate the total when brought back online. Offline functionality: 
+
+Enter deposits offline
+Enter expenses offline. 
+
+When brought back online, the offline entries should be added to tracker.
+
+## Deployment
 
 
-  *Create an app manifest.
 
-  * Register and install a service worker.
+## Built With
 
-  * Cache your files and deliver an offline experience.
+* HTML
+* CSS
+* Bootstrap
+* JavaScript
+* Node.js
+* Express
+* MongoDB
+* Mongoose
 
-  * Make your app downloadable. 
 
-  * Push your app to heroku!
+
+## Authors
+
+**Nargiza Boronchieva**
+
+## License
+
+MIT
