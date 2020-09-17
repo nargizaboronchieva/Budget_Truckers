@@ -3,7 +3,7 @@
 
 ![GitHub](https://img.shields.io/github/repo-size/nargizaboronchieva/Budget_Truckers?style=plastic) ![GitHub](https://img.shields.io/github/last-commit/nargizaboronchieva/Budget_Truckers?style=plastic) ![GitHub](https://img.shields.io/github/languages/top/nargizaboronchieva/Budget_Truckers?style=plastic) ![GitHub](https://img.shields.io/github/license/nargizaboronchieva/Budget_Truckers?style=plastic) ![GitHub](https://img.shields.io/github/followers/nargizaboronchieva?style=social)
 
-Check out the App here!:
+Check out the App here!: https://budget-tracker-nb.herokuapp.com/
 ## Table of Contents
 
 * [Description](#description)
@@ -25,7 +25,7 @@ When brought back online, the offline entries should be added to tracker.
 
 ## Deployment
 
-
+https://budget-tracker-nb.herokuapp.com/
 
 ## Built With
 
